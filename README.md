@@ -75,4 +75,3 @@ The purpose of this repository is to document my QA learning journey, including:
 > Task: Create and execute test cases for the Cart Page at  
 > [Ballard Designs - Cart Page](https://certwcs.ballarddesigns.com/?aka_bypass=5C73514EE7A609054D81DE61DD9CA3D6)
 
-Format used:
