@@ -21,15 +21,15 @@ The purpose of this repository is to document my QA learning journey, including:
 | File / Folder | Description |
 |----------------|-------------|
 | **Bluetooth icon bug report.docx** | Bug report for Bluetooth icon issue |
-| **Login test cases.xlsx** | Functional test cases for login functionality |
+| **Login test cases.xlsx** |  test cases for login functionality |
 | **Orders bug reports.xlsx** | Document containing identified bugs for order module |
 | **QA Training.xlsx** | General QA training notes and activities |
 | **Search product.xlsx** | Test cases for product search functionality |
 | **Shop cart task.xlsx** | Test plan and bug report for Cart Page task |
-| **Training timesheet.xlsx** | Weekly summary of QA training sessions |
-| **Noor-2025100938297-101.zip** | Backup of related QA documents |
+| **Training timesheet.xlsx** | Timesheet of QA training |
+| **Noor-2025100938297-101.zip** |  Notes covering Test Plan, Bug Life Cycle, and Stress Testing topics  |
 | **5 and 6 Oct summary.docx** | Notes summarizing QA fundamentals and Agile topics |
-| **7–15 Oct summary.docx** | Notes covering Test Plan, Bug Life Cycle, and Stress Testing topics |
+
 
 ---
 
