@@ -1,6 +1,6 @@
 # QA Training Repository
 
-This repository contains my QA Engineering training materials, assignments, and practice files.
+This repository contains my QA Engineering training notes, assignments, and practice files.
 
 ---
 
